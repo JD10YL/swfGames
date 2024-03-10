@@ -1,2 +1,3 @@
 # henry-stickmin-legacy-collection
-The legacy version of the Henry Stickmin games in all its SWF glory
+Download the swf file, and put it in my Flash player
+https://jd10yl.github.io/FlashPlayer/
